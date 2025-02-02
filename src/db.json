@@ -1,0 +1,64 @@
+{
+  "profesores": [
+    {
+      "id": "f8df",
+      "nombre": "Jorge",
+      "edad": 42,
+      "asignatura": "Administrador de BD",
+      "materias": [
+        {
+          "nombre": "MongoDB"
+        },
+        {
+          "nombre": "MySQL"
+        },
+        {
+          "nombre": "Posgres"
+        },
+        {
+          "nombre": "SqlServer"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "flor",
+      "apellido": "rodriguez",
+      "promedio": 18,
+      "id": "638a"
+    },
+    {
+      "nombre": "enrike",
+      "apellido": "samaniego",
+      "promedio": 19,
+      "id": "23da"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Node JS desde Cero",
+      "duracion": 17,
+      "dificultad": "intermedio",
+      "id": "4ab3"
+    },
+    {
+      "nombre": "React desde Cero",
+      "duracion": 25,
+      "dificultad": "basico",
+      "id": "fb7d"
+    },
+    {
+      "nombre": "Angular desde Cero",
+      "duracion": 30,
+      "dificultad": "Avanzado",
+      "id": "3c4e"
+    },
+    {
+      "id": "459f",
+      "nombre": "Spring Boot desde Cero",
+      "duracion": 35,
+      "dificultad": "Avanzado"
+    }
+  ]
+}
